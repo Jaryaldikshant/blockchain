@@ -1,4 +1,4 @@
-# 📦 Blockchain & Solidity Learning Repository
+# 📦 Blockchain
 
 This repository contains smart contracts written in **Solidity** for learning blockchain concepts, basic data types, arrays, mappings, contract deployment, and inheritance.  
 It serves as a step-by-step resource to understand **Ethereum smart contract development**.
