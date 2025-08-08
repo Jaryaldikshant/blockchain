@@ -13,7 +13,8 @@ contract SimpleStorage{
 
 
 // Store a number in the contract's state
-    function store(uint256 number) public {
+// virtual override
+    function store(uint256 number) public virtual {
         favouriteNumber = number;
     }
 
